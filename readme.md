@@ -1,5 +1,9 @@
 forked from https://github.com/peng-zhihui/ElectronBot/tree/main/2.Firmware/ServoDrive-fw-ll
 
+commit/573c6a970e32bb4cdea8ae1355b5403c2718fc7b
+
+这个是智能舵机的LL库版本，代码体积得到优化，使用vscode和platformio开发，开发环境和编译参考[这个视频](https://www.bilibili.com/video/BV1US4y1P7Xr/)
+
 包含舵机的电位器ADC采样，I2C从机通信和协议解析，电机控制的PWM输出，以及PID闭环算法实现。
 
 #### 舵机I2C协议
